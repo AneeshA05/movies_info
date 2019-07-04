@@ -1,0 +1,22 @@
+.autocomplete{
+    font-family: cursive;
+}
+input{
+    margin-top: 30px;
+    margin-left: 500px;
+}
+button{
+    margin-top: 30px;
+}
+img{
+    margin-left: 300px;
+    margin-top: 20px;
+    width: 800px;
+    height: 200px;
+}
+.container{
+    margin-top: 10px;
+}
+#m1.value{
+    cursor: pointer;
+}
